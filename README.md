@@ -1,4 +1,4 @@
-# geospatial-data-analytics
+# Geospatial Data Analytics
 
 Data analytics on geospatial database of a taxi cab firm, that contains pickup locations of several taxis along with real-time location data of their customer, to gain meaningful insights from the data.
 
